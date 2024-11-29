@@ -2,10 +2,10 @@ import './botaoSimples.css'
 
 function botao1(){
     return (
-        <div>
+        <div className='container'>
             <button>Primeiro botão</button>
         </div>
     )
 }
 
-export default botao1
+export default botao1;

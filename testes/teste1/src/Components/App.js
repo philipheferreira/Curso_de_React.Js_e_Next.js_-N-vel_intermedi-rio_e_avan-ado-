@@ -1,5 +1,6 @@
 import './App.css';
-
+import Botao1 from './botao/botaoSimples';
+import Botao2 from './botao/botaoSimples2';
 
 function App() {
   return (
@@ -16,6 +17,8 @@ function App() {
         >
           Aprenda React
         </a>
+        <Botao1/>
+        <Botao2/>
       </header>
     </div>
   );

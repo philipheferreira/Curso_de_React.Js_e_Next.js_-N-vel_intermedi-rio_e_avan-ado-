@@ -3,15 +3,12 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './Components/App';
 import reportWebVitals from './reportWebVitals';
-import botao1 from './Components/botao/botaoSimples';
-import botao2 from './Components/botao/botaoSimples2';
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
-    <botao1/>
-    <botao2/>
   </React.StrictMode>
 );
 
