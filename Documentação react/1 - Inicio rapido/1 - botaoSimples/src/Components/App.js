@@ -9,6 +9,12 @@ const pessoa = {
   imgWidth: 180
 };
 
+function Botao3(){
+  return(
+    <button>Terceiro botão</button>
+  );
+}
+
 function App() {
   return (
     <div className="App">
@@ -26,6 +32,7 @@ function App() {
          
         <Botao1/>
         <Botao2/>
+        <Botao3/>
       </header>
     </div>
   );
