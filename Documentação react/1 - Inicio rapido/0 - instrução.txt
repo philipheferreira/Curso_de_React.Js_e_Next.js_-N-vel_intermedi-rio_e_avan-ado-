@@ -1,0 +1,8 @@
+Como criar um projeto react:
+
+* npx create-react-app meu-projeto
+
+Acessar a parta e startar:
+
+* cd meu-projeto
+* npm start
