@@ -1,4 +1,4 @@
-import './botaoSimples.css'
+import './botaoSimples.css' // importando css de um outro arquivo
 
 /*
     CRIANDO E ANHINHANDO COMPONENTES
