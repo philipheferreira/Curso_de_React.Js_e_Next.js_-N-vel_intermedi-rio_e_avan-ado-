@@ -1,5 +1,5 @@
 import './App.css';
-import Lista from './Lista/ListaRenderizada'
+import Lista from './Lista/ListaRenderizada'// recebendo compoente
 function App() {
   return (
     <div className="App">
